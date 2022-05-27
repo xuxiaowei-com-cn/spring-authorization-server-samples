@@ -45,6 +45,7 @@
 
     <modules>
         <module>default-authorizationserver</module>
+        <module>messages-client</module>
     </modules>
 
     <dependencies>
