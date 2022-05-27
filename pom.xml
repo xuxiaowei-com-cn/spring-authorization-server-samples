@@ -42,6 +42,11 @@
         <!-- 打包时跳过单元测试 -->
         <skipTests>true</skipTests>
     </properties>
+
+    <modules>
+        <module>default-authorizationserver</module>
+    </modules>
+
     <dependencies>
 
     </dependencies>
