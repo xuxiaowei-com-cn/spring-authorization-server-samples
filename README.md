@@ -13,3 +13,5 @@ OAuth 2.1 项目示例
 
 - 首先启动 default-authorizationserver，messages-client 与 messages-resource 后启动
 - 访问 http://127.0.0.1:8080
+- 用户名：user1
+- 密码：password
