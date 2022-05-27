@@ -2,6 +2,11 @@
 
 OAuth 2.1 项目示例
 
+## 说明
+
+- 本项目主要内容参考了 [spring-authorization-server](https://github.com/spring-projects/spring-authorization-server)
+  中的 [samples](https://github.com/spring-projects/spring-authorization-server/tree/main/samples)
+
 ## 分支
 
 - main
